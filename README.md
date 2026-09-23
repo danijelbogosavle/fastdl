@@ -1,2 +1,2 @@
 # fastdl
-fastdl venezuela
+fastdl venezuela cssv34 clientmod
